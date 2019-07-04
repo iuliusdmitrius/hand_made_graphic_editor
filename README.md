@@ -1,1 +1,1 @@
-# hand_made_graphic_editor
+First attempts to develop a simple graphics editor
